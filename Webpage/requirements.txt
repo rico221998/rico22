@@ -1,2 +1,2 @@
-streamlit==0.74.1
-streamlit-lottie==0.74.1
+streamlit<0.74.1
+streamlit-lottie<0.74.1
